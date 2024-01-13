@@ -26,9 +26,6 @@ You can email me as well here **manjeshverma124@gmail.com**.
 ### Connect with me
 ![Linkedin Badge]https://www.linkedin.com/in/manjesh-verma?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-![ds-3](https://github.com/volcanusacademy/Manjesh-Verma-13/assets/144987266/f34ac379-8a6e-477f-b94a-90464f71ad10)
-
-
 **Let me tell you somethings about myself.**
  - 🧑🏽‍💻🔭: As an analyst, I help the companies unlock valuable insights and solve complex business challenges, using data analysis, key performance indicators, and customer success skills. I have completed internship certifications and I worked on few research projects (published by GitHub) to enhance my expertise and efficiency..
  - :mortar_board: I have completed BCA from Shri Gujarati Innovative College of Science & Technology, affiliated to DAVV University Indore. My education and experience enable me to achieve a mission of understanding people and inspiring growth.
