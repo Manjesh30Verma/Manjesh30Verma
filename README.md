@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmanjesh30verma&label=Profile%20views&color=0e75b6&style=flat" alt="mmanjesh30verma" /> </p>
 
-### Hi there 👋, welcome to My profile.
+### Hello 👋
 
 I am **Manjesh Verma**, I am a Learner, and Tech Data Enthusiast. to code in Python and currently working on few projects!
 
@@ -28,8 +28,11 @@ https://www.linkedin.com/in/manjesh-verma
 
 **Let me tell you somethings about myself.**
  - 🧑🏽‍💻🔭: As an analyst, I help the companies unlock valuable insights and solve complex business challenges, using data analysis, key performance indicators, and customer success skills. I have completed internship certifications and I worked on few research projects (published by GitHub) to enhance my expertise and efficiency..
+  
  - :mortar_board: I have completed BCA from Shri Gujarati Innovative College of Science & Technology, affiliated to DAVV University Indore. My education and experience enable me to achieve a mission of understanding people and inspiring growth.
+  
  - :zap: My curiosity made me a **self-learner** who loves learning things from the internet, any reliable and quality source of information.
+ 
  - :v:  I am passionate about analytics, innovation, and I value learning and excellence. Apart from this I am a tea lover & like exploring new places...
 
 
