@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, Welcome to My Profile</h1>
-<h3 align="center">A Passionate Data Analyst</h3>
+<h3 align="center">I'm Passionate About Analytics</h3>
 
 <img align="right" alt="Analysis" width="400" src="https://static.wixstatic.com/media/f8eb0c_a6ce680ecff943df817679a09a99adb9~mv2.gif">
 
