@@ -13,11 +13,11 @@ I love Analysis, data learning and computer vision . I learn new things and expl
 
 I am known about: 
 - Data Learning and Visualizations 
-- Python Development 
+- Python Development - Django| Flask | FastAPI
 - Tableau 
 - Power Bi
 - Data Analytics
-- SQL, Jira scrum
+- MySQL, PostgreSQL, Jira scrum , Advanced Excel 
 - and much more....
 
 **Want to hire me for your next project. Lets connect.**
@@ -27,14 +27,34 @@ You can email me as well here **manjeshverma124@gmail.com**.
 https://www.linkedin.com/in/manjesh-verma
 
 **Let me tell you somethings about myself.**
- - 🧑🏽‍💻🔭: As an analyst, I help the companies unlock valuable insights and solve complex business challenges, using data analysis, key performance indicators, and customer success skills. I have completed internship certifications and I worked on few research projects (published by GitHub) to enhance my expertise and efficiency..
-  
- - :mortar_board: I have completed BCA from Shri Gujarati Innovative College of Science & Technology, affiliated to DAVV University Indore. My education and experience enable me to achieve a mission of understanding people and inspiring growth.
-  
- - :zap: My curiosity made me a **self-learner** who loves learning things from the internet, any reliable and quality source of information.
- 
- - :v:  I am passionate about analytics, innovation, and I value learning and excellence. Apart from this I am a tea lover & like exploring new places...
+ - 🧑🏽‍💻🔭: As an analyst, I help the companies unlock valuable insights and solve complex business challenges, using data analysis, key performance indicators, and customer success skills.
+- Customer-oriented, multitasking professional with 1+ years of experience in Business Intelligence, utilizing Power BI, Python for data visualization, Excel, HTML, CSS, and MySQL Storage.
 
+- Strong knowledge of Power BI for importing data from various sources such as SQL Server, MongoDB, Analysis Services, and MS Excel.
+
+- Experienced in handling and maintaining versioning for documents using various tools.
+
+- Hands-on knowledge of Python development and frameworks Django & Flask.
+
+- Worked on Machine Learning algorithms for predictive analysis, utilizing linear, logistic, and polynomial regression models. For categorical data in our dataset, I used label encoding and one-hot encoding to improve prediction accuracy and evaluate the performance of our machine learning models.
+
+- Created numerous DAX measures and calculated columns to implement date, time, statistical, and mathematical functions.
+
+- Implemented projects using Agile Methodology.
+- Proficient in creating paginated reports using Report Builder.
+
+- Expertise in developing data visualizations like Area Charts, Line and Stacked Column Charts, and creating visuals like Donut Charts, Waterfall Charts, Gauge Charts, and Funnel Charts.
+
+- Developed reports with parameters, bookmarks, synchronized slicers, drill-down, and drill-through options.
+
+- Skilled in writing Joins, Views, Stored Procedures, Functions, and Temp Tables.
+
+- Knowledgeable in Dataflows and various types of dashboards.
+
+- Proficient in VLOOKUP formula development, Pivot Table generation, Macros and Pivot reporting.
+
+-  knowledge of artificial intelligence for embedding machine learning algorithms and creating models. I have completed internship certifications and I worked on few research projects (published by GitHub) to enhance my expertise and efficiency..
+  
 
 
 <h3 align="left">Languages and Tools:</h3>
